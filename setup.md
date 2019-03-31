@@ -1,5 +1,5 @@
 ### 環境セットアップ手順
-...
+```
 sudo apt update
 sudo apt upgrade
 sudo apt-get install python3
@@ -12,5 +12,5 @@ sudo apt-get install python3-pip
 pip3 install opencv-python
 pip3 install opencv-contrib-python
 pip3 install pillow
-...
+```
 
